@@ -1,0 +1,22 @@
+{
+	"id": "c16f4862-3427-42bb-a572-eca20c172f68",
+	"name": "Dev-Env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://petstore3.swagger.io/api/v3",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-16T09:20:18.244Z",
+	"_postman_exported_using": "Postman/12.36.4"
+}
